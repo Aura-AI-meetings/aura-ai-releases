@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "notes": "First beta. Live transcription of both sides of a call, the AI copilot and session summaries. This build is not code-signed, so Windows shows a SmartScreen warning: choose More info, then Run anyway.",
+  "pub_date": "2026-10-16T07:50:31.351Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeFRuVFIwa2J5ZFZNa0tkeVM0WXdncG1hd2NpUEdxQXovbG1obCtQbXVxd0tWUWtydEhLSGlPV0dVdFc4Vmpya1dzQjFtS3BuWE10alFwMENJNWh5NUhHR2lCUzZlaHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTM3MDMwCWZpbGU6QXVyYSBBSV8wLjEuMF94NjQtc2V0dXAuZXhlClhDaVFScDJkZUx6YXZLVVk4K29paWZaRnJUeVVPaUJNN0dld3ljYXNEMGl4VXdaUW05RnhGV09ydUhjYVVnUHFPRXI0ZUorbjA4MlJySmovZGE3R0J3PT0K",
+      "url": "https://github.com/Aura-AI-meetings/aura-ai-releases/releases/download/beta-v0.1.0/Aura-AI_0.1.0_x64-setup.exe"
+    }
+  },
+  "channel": "beta",
+  "sha256": "127257cfc133ca8a7f526ec2c202e94ce5d8d45e46f9676cd61c2759952e29b7",
+  "release_page": "https://github.com/Aura-AI-meetings/aura-ai-releases/releases/tag/beta-v0.1.0"
+}
