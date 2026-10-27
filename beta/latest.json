@@ -1,14 +1,14 @@
 {
-  "version": "0.1.0",
-  "notes": "First beta. Live transcription of both sides of a call, the AI copilot and session summaries. This build is not code-signed, so Windows shows a SmartScreen warning: choose More info, then Run anyway.",
-  "pub_date": "2026-10-16T07:50:31.351Z",
+  "version": "0.1.1",
+  "notes": "Files, Usage & Billing, Help and Profile now open inside the app, and Files takes drag-and-drop uploads. You stay signed in after the app sits idle, and a network blip no longer signs you out. If transcription stops mid-call you can retry it or end the session. The copilot remembers your earlier questions for follow-ups, a stalled answer no longer locks the composer, and untitled sessions are named from their summary.",
+  "pub_date": "2026-10-27T09:37:38.368Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeFRuVFIwa2J5ZFZNa0tkeVM0WXdncG1hd2NpUEdxQXovbG1obCtQbXVxd0tWUWtydEhLSGlPV0dVdFc4Vmpya1dzQjFtS3BuWE10alFwMENJNWh5NUhHR2lCUzZlaHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTM3MDMwCWZpbGU6QXVyYSBBSV8wLjEuMF94NjQtc2V0dXAuZXhlClhDaVFScDJkZUx6YXZLVVk4K29paWZaRnJUeVVPaUJNN0dld3ljYXNEMGl4VXdaUW05RnhGV09ydUhjYVVnUHFPRXI0ZUorbjA4MlJySmovZGE3R0J3PT0K",
-      "url": "https://github.com/Aura-AI-meetings/aura-ai-releases/releases/download/beta-v0.1.0/Aura-AI_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeFRuVFIwa2J5ZFdwbVF0U1B6aEo4RUFxalBZR2xEVXRSb1kya0Y1TlRtdWthY0VRZUVsdmMrdDNLRThIQ2FXNTlEMDNJWmdiUGF1TERlN1p5Q1VXd3JGTjBCd0lmc2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDkzODU3CWZpbGU6QXVyYSBBSV8wLjEuMV94NjQtc2V0dXAuZXhlCkVmaXhlUmhYRkxmUTNCL2lObHpyR1dVQTg3cWhGMm9vOGZYUG5PdVRmZU9mR2lVMHhFWGFrM2I5ZWVkOG5kemVCQUpaT0JoeUphMVRkMkt0Ym5kbUJBPT0K",
+      "url": "https://github.com/Aura-AI-meetings/aura-ai-releases/releases/download/beta-v0.1.1/Aura-AI_0.1.1_x64-setup.exe"
     }
   },
   "channel": "beta",
-  "sha256": "127257cfc133ca8a7f526ec2c202e94ce5d8d45e46f9676cd61c2759952e29b7",
-  "release_page": "https://github.com/Aura-AI-meetings/aura-ai-releases/releases/tag/beta-v0.1.0"
+  "sha256": "92558f55801a26c14ac37277a2170a9ea793ddd96e024b97368387e6b636d2c5",
+  "release_page": "https://github.com/Aura-AI-meetings/aura-ai-releases/releases/tag/beta-v0.1.1"
 }
